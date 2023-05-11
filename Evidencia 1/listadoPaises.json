@@ -1,0 +1,105 @@
+{
+    "listadoPaises": {
+        "pais": [{
+                "nombre": "España",
+                "capital": "Madrid",
+                "textoCapital": "Madrid es la capital central de España con elegantes bulevares y amplios parques muy cuidados, como el Buen Retiro. Es famosa por sus ricas colecciones de arte europeo, con obras de Goya, Velázquez y otros maestros españoles en el Museo del Prado. El corazón del antiguo Madrid de los Habsburgo es la Plaza Mayor bordeada de pórticos y cerca se encuentra el Palacio Real y la Armería, que exhiben arsenales históricos.",
+                "ciudadImportante": [
+                    "Madrid",
+                    "Barcelona",
+                    "Valencia",
+                    "Sevilla",
+                    "Zaragoza",
+                    "Málaga",
+                    "Murcia",
+                    "Pamplona"
+                ],
+                "platosCiudad": [
+                    "img/espana/Callos-a-la-madrilena.jpg",
+                    "img/espana/bombas.jpg",
+                    "img/espana/Fideua_Valencia.jpg",
+                    "img/espana/gazpaso.jpg",
+                    "img/espana/Pollo-al-Chilindron.jpg",
+                    "img/espana/sopas-perotas.jpg",
+                    "img/espana/zarangollo-murciano.jpg",
+                    "img/espana/Esparragos-de-Navarra.jpg"
+                ]
+            },
+            {
+                "nombre": "México",
+                "capital": "México D.F.",
+                "textoCapital": "México es un país entre los Estados Unidos y América Central, conocido por las playas en el Pacífico y el golfo de México, y su diverso paisaje de montañas, desiertos y selvas. Las ruinas antiguas, como Teotihuacán y la ciudad maya de Chichén Itzá, se distribuyen por el país, al igual que las ciudades de la época colonial española.",
+                "ciudadImportante": [
+                    "México D.F.",
+                    "Ecatepec",
+                    "Guadalajara",
+                    "Puebla",
+                    "Juárez",
+                    "Tijuana",
+                    "León",
+                    "Zapopan"
+                ],
+                "platosCiudad": [
+                    "img/mexico/elotes.jpg",
+                    "img/mexico/pancita.jpg",
+                    "img/mexico/pozole-con-maiz-de-cacahuazintle.jpg",
+                    "img/mexico/1.-Mole-poblano.jpg",
+                    "img/mexico/burrito-gastronomia-de-ciudad-juarez.png",
+                    "img/mexico/ensalada.jpg",
+                    "img/mexico/caldodeoso.jpg",
+                    "img/mexico/Carne-en-su-jugo.jpg"
+                ]
+            },
+            {
+                "nombre": "Argentina",
+                "capital": "Buenos Aires",
+                "textoCapital": "Buenos Aires es la gran capital cosmopolita de Argentina. Su centro es la Plaza de Mayo, rodeada de imponentes edificios del siglo XIX, incluida la Casa Rosada, el icónico palacio presidencial que tiene varios balcones. Entre otras atracciones importantes, se incluyen el Teatro Colón, un lujoso teatro de ópera de 1908 con cerca de 2,500 asientos, y el moderno museo MALBA, que exhibe arte latinoamericano.",
+                "ciudadImportante": [
+                    "Buenos Aires",
+                    "Córdoba",
+                    "Rosario",
+                    "La Plata",
+                    "Mar del Plata",
+                    "Tucumán",
+                    "Salta",
+                    "Mendoza"
+                ],
+                "platosCiudad": [
+                    "img/argentina/Locro.jpg",
+                    "img/argentina/cordoba.jpg",
+                    "img/argentina/bagnaCauda.jpg",
+                    "img/argentina/pica-pollo.jpg",
+                    "img/argentina/calamar.jpg",
+                    "img/argentina/empanada.jpg",
+                    "img/argentina/locro.webp",
+                    "img/argentina/humitas-en-chala.jpg"
+                ]
+            },
+            {
+                "nombre": "Colombia",
+                "capital": "Bogotá",
+                "textoCapital": "Bogotá, oficialmente Bogotá, Distrito Capital, abreviado Bogotá, D. C. es la extensa capital en altura de Colombia. La Candelaria, su centro con adoquines, cuenta con sitios coloniales como el Teatro Colón neoclásico y la Iglesia de San Francisco del siglo XVII. También alberga museos populares, incluido el Museo Botero, que exhibe arte de Fernando Botero, y el Museo del Oro, con piezas de oro precolombinas.",
+                "ciudadImportante": [
+                    "Bogotá",
+                    "Medellín",
+                    "Cali",
+                    "Barranquilla",
+                    "Cartagena",
+                    "Cúcuta",
+                    "Soledad",
+                    "Ibagué"
+                ],
+                "platosCiudad": [
+                    "img/colombia/ajiaco.jpg",
+                    "img/colombia/bandejaPaisa.jpg",
+                    "img/colombia/sancochoGallina.jpg",
+                    "img/colombia/arrozLisa.jpg",
+                    "img/colombia/pescadoFrito.jpg",
+                    "img/colombia/mute.jpg",
+                    "img/colombia/butifarra.jpg",
+                    "img/colombia/lechona.jpg"
+                ]
+            }
+        ]
+    }
+}
